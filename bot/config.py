@@ -1,7 +1,7 @@
 class config:
     BOT_TOKEN = "5134980069:AAGwC4aO1RtvCkeuk5GKqaAgAzr0d1uk008"
     APP_ID = "9306350"
-    API_HASH = "5134980069:AAGwC4aO1RtvCkeuk5GKqaAgAzr0d1uk008"
+    API_HASH = "410deb4302a1054ecaaf913acc5ca4dc"
     DATABASE_URL = "postgres://zxyxlrgw:eH__3gv0NTijJJ6vN2dCjjWvlnCYYi4_@kashin.db.elephantsql.com/zxyxlrgw"
     SUDO_USERS = "1909721616" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/Miss_AkshiV1_Support"
